@@ -1,0 +1,10 @@
+[{
+    "model":"Tesla",
+    "year": 2020,
+    "img_src":"https://carsguide-res.cloudinary.com/image/upload/f_auto%2Cfl_lossy%2Cq_auto%2Ct_default/v1/editorial/2017-Tesla-Model-S-P100D-white-sedan-Max-Klamus-1200x800-%281%29_1.jpg"
+},
+{
+    "model":"Mercedes",
+    "year": 2021,
+    "img_src":"https://hips.hearstapps.com/hmg-prod/images/2021-mercedes-benz-cls-class-1591735006.jpg?crop=0.708xw:0.531xh;0.0737xw,0.353xh&resize=1200:*"
+}]
